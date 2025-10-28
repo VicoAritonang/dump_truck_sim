@@ -2,7 +2,6 @@ import streamlit as st
 import heapq
 import random
 import pandas as pd
-import time
 import streamlit.components.v1 as components
 
 # ---------------------------------------------------------------------------------
